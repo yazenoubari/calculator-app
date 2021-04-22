@@ -1,7 +1,7 @@
 # calculator-app
 Calculator application using Java swing.
 
-First time experimenting with the GUI features of Java. much of the raw programming was done using NetBeans' GUI editor. I mostly programmed the logic. The calculator program has similar functionality and 'look' to its MacOS counterpart.
+First time experimenting with the GUI features of Java. Much of the raw programming was done using NetBeans' GUI editor, though I mostly programmed the logic. The calculator program has similar functionality and 'look' to its MacOS counterpart.
 
 All numbers and operands were assigned to a String arraylist. String operands are then converted into integer types, which are used for computation. 
 
