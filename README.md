@@ -7,7 +7,7 @@ All numbers and operands were assigned to a String arraylist. String operands ar
 
 Other features:
 - Keyevent listeners
-- Text-size reduction w/ more characters
+- Text-size reduction with addition of characters
 - Copy/paste/close commands (couldn't get CTR+V working)
 - Input filter (from PASTE)
 - General math expression logic (PEMDAS)
